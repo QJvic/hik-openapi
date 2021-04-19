@@ -1,6 +1,6 @@
 {
   "name": "hik-openapi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node版的hikvision（海康威视）OpenAPI安全认证库",
   "main": "index.js",
   "scripts": {
