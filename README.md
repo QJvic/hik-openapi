@@ -17,7 +17,7 @@ yarn add hik-openapi
 # 使用
 
 ```js
-const HikOpenApi = require('./index.js');
+const HikOpenApi = require('hik-openapi');
 
 // 构造
 const appKey = 'xxxx';
