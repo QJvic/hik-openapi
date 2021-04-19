@@ -1,0 +1,26 @@
+{
+  "name": "hik-openapi",
+  "version": "1.0.1",
+  "description": "node版的hikvision（海康威视）OpenAPI安全认证库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "hik",
+    "hikversion",
+    "openapi"
+  ],
+  "author": "joe <qj5657@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/QJvic/hik-openapi",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "prettier": "^2.2.1",
+    "uuid": "^8.3.2"
+  }
+}
