@@ -47,10 +47,10 @@ openApi.post(apiUrl, postData).then(res => console.log(res.data));
 
 使用 参数
 
-| 参数     | 说明   | 必须 | 默认 |
-| -------- | ------ | ---- | ---- |
-| apiUrl   | appKey | 是   |      |
-| postData | 请求体 | 是   |      |
+| 参数     | 说明                  | 必须 | 默认 |
+| -------- | --------------------- | ---- | ---- |
+| apiUrl   | 具体请求的数据接口url | 是   |      |
+| postData | 请求体                | 是   |      |
 
 # 说明
 
